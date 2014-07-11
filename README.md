@@ -1,5 +1,5 @@
 ****************************************************************************
-Welcome to the text-based Black Jack Game:
+Welcome to the text-based BlackJack Game:
 
 This is an OOP based BlackJack code written by ehsan Kabiri Rahani. The writer has tried to encapsulate the code to make it easier to follow.
 
