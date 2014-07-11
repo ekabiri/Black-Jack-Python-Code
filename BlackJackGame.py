@@ -16,8 +16,6 @@ import random
 import os
 
 class playHand:
-     __chipsNumbers=100 #number of player's chips
-     __minBet=1 #minimum bet per hand (in chips)
      __cardValues = {'Ace':11,'King':10,'Queen':10,'Jack':10,'2':2,'3':3,'4':4,
      '5':5,'6':6,'7':7,'8':8,'9':9,'10':10}
      __suitChar={'Spade':'Spade',' Diamond':'Diamond',' Heart':'Heart','Club':'Club'} #Card suit text map
